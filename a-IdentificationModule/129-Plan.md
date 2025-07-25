@@ -1,4 +1,3 @@
-
 *Disclaimer : Ce plan est un WIP pour le module 129 . Actuellement c'est uniquement une piste de travail et il est susceptible de changer / évoluer.*
 *Info : Les OO correspondent aux objectifs opérationnels du module, qui sont des compétences spécifiques que les étudiants doivent acquérir selon ICT*
 
@@ -42,12 +41,18 @@
 - Exercice : rédiger la documentation d’un réseau réalisé sur Packet Tracer.
 - Simulation de remise du réseau au client (procès-verbal, explications).
 
+## Évaluations (33% chacune) - basé sur le DEP présent sur ICT Formation Professionnelle. 
+
+- **Test de théorie 1 - QCM & Questions ouvertes** (Semaine 3) : Notions fondamentales, switchs avancés, sécurité, ARP
+- **Test de théorie 2 - QCM & Questions ouvertes** (Semaine 5) : Adressage IP, calcul IP, conversions binaires, sous-réseaux, analyse des besoins et préparation du réseau
+- **Test de théorie 3 - QCM & Questions ouvertes** (Semaine 7) : Configuration des équipements, routage statique, dépannage et analyse réseau
+
 ## P_RES 129 
-Le P_RES 129 est un projet qui accompagnera les étudiants tout au long du module. 
+Le P_RES 129 est un projet qui accompagnera les étudiants tout au long du module et qui a pour objectif de mettre en pratique et valider les compétences acquises. 
 L'étudiant devra : 
 - Lire et comprendre le cahier des charges du projet.
 - Analyser les besoins du client et identifier les composants nécessaires.
 - Concevoir, configurer, tester et documenter un réseau complet avec routage statique sur Packet Tracer, en respectant un cahier des charges.
 - Présenter oralement le projet et rendre une version finale de sa documentation. 
 
-L'oral et la documentation seront évalués dans le cadre du P_RES 129 et compteront dans la réussite de ce projet. 
+L'oral et la documentation seront évalués dans le cadre du P_RES 129 et compteront dans la réussite de ce projet.
