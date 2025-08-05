@@ -33,9 +33,7 @@ footer: "ETML - Module I129 - AGR"
    - Règles de base pour un schéma réseau
    - Outils de schématisation (draw.io, Visio etc.)
    - Exemples de schémas simples
-5. Exercice pratique
-   - schématiser un réseau à partir d’un scénario (draw.io ou visio)
-   - Produire ce schéma sur Packet Tracer
+5. P_RES-129 - PRATIQUE PROJET
 
 ---
 
@@ -116,30 +114,18 @@ Vous apprendrez à lire un cahier des charges, identifier les composants nécess
 
 ---
 
-# 5. Exercice pratique
-
-## 5.1 Schématiser un réseau à partir d’un scénario (draw.io ou visio)
-
-1. Lisez le scénario fourni par l’enseignant (nombre de postes, besoins, contraintes).
-2. Listez les composants nécessaires.
-3. Réalisez un schéma réseau clair sur draw.io ou Visio.
-4. Vérifiez que le schéma répond bien à tous les besoins du cahier des charges.
-
----
-
-## 5.2 Produire ce schéma sur Packet Tracer
-
-- Reproduisez le schéma réalisé sur draw.io ou Visio dans Cisco Packet Tracer.
-- Vérifiez la cohérence des connexions et la correspondance avec le cahier des charges.
-- Sauvegardez le fichier Packet Tracer pour remise.
-
----
-
 ## Questions de réflexion
 
 - Quels sont les points critiques à anticiper lors de la préparation d’un réseau ?
 - Pourquoi est-il important de bien schématiser avant de configurer ?
 - Quels avantages à utiliser un outil de simulation comme Packet Tracer ?
+
+---
+
+# 5. P_RES-129 - PRATIQUE PROJET
+
+Continuez  le projet P_RES-129
+
 
 ---
 
