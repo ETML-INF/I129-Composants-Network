@@ -520,3 +520,12 @@ La sécurité des switchs et routeurs est essentielle pour protéger le réseau 
 Effectuez l'ex : "**E-129-Ex02-VLAN-STP.pdf**" 
 
 
+---
+# Questions ?
+
+Merci pour votre attention !
+
+Des questions ?
+
+Est-ce que la sécurité vous int
+
