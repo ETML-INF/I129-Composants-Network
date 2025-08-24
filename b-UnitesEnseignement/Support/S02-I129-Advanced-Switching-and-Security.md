@@ -518,5 +518,3 @@ La sécurité des switchs et routeurs est essentielle pour protéger le réseau 
 # 5. Exercice pratique
 
 Effectuez l'ex : "**E-129-Ex02-VLAN-STP.pdf**" 
-
-
