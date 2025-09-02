@@ -76,3 +76,9 @@
 * À quoi sert le STP dans ce contexte ?
 * Que se passe-t-il si vous supprimez un des liens entre deux switchs ?
 * Pourquoi configure-t-on des trunks entre les switchs ?
+
+---
+
+## 🔄 Extension de l'exercice
+
+Une fois l'exercice validé par l'enseignant, vous devrez le refaire en utilisant cette fois des switchs de niveau 3 (L3) et en configurant le routage inter-VLAN afin que chaque PC puisse communiquer avec tous les autres PC du réseau.
