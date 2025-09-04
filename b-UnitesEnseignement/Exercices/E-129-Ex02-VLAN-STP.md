@@ -79,6 +79,3 @@
 
 ---
 
-## 🔄 Extension de l'exercice
-
-Une fois l'exercice validé par l'enseignant, vous devrez le refaire en utilisant cette fois des switchs de niveau 3 (L3) et en configurant le routage inter-VLAN afin que chaque PC puisse communiquer avec tous les autres PC du réseau.
