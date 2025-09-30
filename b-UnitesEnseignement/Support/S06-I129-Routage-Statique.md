@@ -10,7 +10,7 @@ footer: "ETML - Module I129 - AGR"
 **Module :** ETML – Module 129  
 **Auteur :** Alexis Gugler  
 **Création :** 05.08.2025  
-**Version :** 1 du 05.08.2025  
+**Version :** 2 du 30.09.2025  
 **Durée estimée de lecture :** XX minutes
 
 ---
@@ -18,9 +18,10 @@ footer: "ETML - Module I129 - AGR"
 # Table des matières
 
 1. Introduction
-2. Routage statique vs dynamique
-3. Structure et contenu des tables de routage
-4. Exercice pratique : implémenter le routage statique sur Packet Tracer
+2. Routage statique
+3. Routage dynamique
+4. Structure et contenu des tables de routage
+5. Exercice pratique : implémenter le routage statique sur Packet Tracer
 
 ---
 
@@ -123,6 +124,34 @@ footer: "ETML - Module I129 - AGR"
 
 ---
 
+## 3.4 Obtenir de l’aide dans la CLI Cisco
+
+- La CLI Cisco intègre des fonctions d’aide très pratiques pour découvrir ou rappeler la syntaxe des commandes.
+- Tapez un point d’interrogation `?` à n’importe quel endroit pour afficher les commandes ou options disponibles.
+- Exemples :
+  - À l’invite principale :
+    ```shell
+    Router> ?
+    ```
+    Affiche toutes les commandes disponibles en mode utilisateur.
+---
+
+## 3.4 Obtenir de l’aide dans la CLI Cisco (suite)
+  - Exemples :
+    - Après un mot-clé :
+      ```shell
+      Router# show ?
+    Affiche toutes les options possibles après la commande `show`.
+    - En cours de saisie :
+      ```shell
+      Router(config)# interface ?
+      ```
+      Liste les interfaces configurables.
+- Utilisez la touche Tabulation pour compléter automatiquement une commande.
+- L’aide contextuelle est essentielle pour apprendre et éviter les erreurs de syntaxe.
+
+---
+
 # 4. Structure et contenu des tables de routage
 
 - Une table de routage contient l’ensemble des routes connues par un routeur.
@@ -161,6 +190,9 @@ L’affichage de la commande `show ip route` est organisé en trois sections pri
 
 
 *Source de l’image et des explications : [ComputerNetworkingNotes - The show ip route command explained](https://www.computernetworkingnotes.com/ccna-study-guide/the-show-ip-route-command-explained.html)*
+
+---
+
 
 ---
 
