@@ -192,10 +192,6 @@ L’affichage de la commande `show ip route` est organisé en trois sections pri
 *Source de l’image et des explications : [ComputerNetworkingNotes - The show ip route command explained](https://www.computernetworkingnotes.com/ccna-study-guide/the-show-ip-route-command-explained.html)*
 
 ---
-
-
----
-
 # 4. Exercice pratique : Cisco Packet Tracer
 
 - Objectif : permettre la communication entre les deux réseaux via des routes statiques.
