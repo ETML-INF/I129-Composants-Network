@@ -164,6 +164,14 @@ L’affichage de la commande `show ip route` est organisé en trois sections pri
 
 ---
 
+# 4. Exercice pratique : Cisco Packet Tracer
+
+- Objectif : permettre la communication entre les deux réseaux via des routes statiques.
+
+![height:470px](./img/E-129-Static-Routing.png)
+
+
+---
 # 4. Exercice pratique : implémenter le routage statique sur Packet Tracer
 
 - Objectif : permettre la communication entre les deux réseaux via des routes statiques.
