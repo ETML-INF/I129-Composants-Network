@@ -76,3 +76,6 @@
 * À quoi sert le STP dans ce contexte ?
 * Que se passe-t-il si vous supprimez un des liens entre deux switchs ?
 * Pourquoi configure-t-on des trunks entre les switchs ?
+
+---
+
