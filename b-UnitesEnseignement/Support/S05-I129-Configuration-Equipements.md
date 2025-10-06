@@ -79,10 +79,39 @@ Cette séquence aborde la configuration de base des équipements réseau (switch
 ![height:500px](./img/05_unifi_web_interface.png)
 
 ---
+# 3 Configuration de base Cisco (Packet Tracer)
 
-# 3. Configuration de base Cisco (Packet Tracer)
+## 3.1 Obtenir de l’aide dans la CLI Cisco
 
-## 3.1 Définir le nom de l’équipement (hostname) [Cisco]
+- La CLI Cisco intègre des fonctions d’aide très pratiques pour découvrir ou rappeler la syntaxe des commandes.
+- Tapez un point d’interrogation `?` à n’importe quel endroit pour afficher les commandes ou options disponibles.
+- Exemples :
+  - À l’invite principale :
+    ```shell
+    Router> ?
+    ```
+    Affiche toutes les commandes disponibles en mode utilisateur.
+---
+
+## 3.1 Obtenir de l’aide dans la CLI Cisco (suite)
+  - Exemples :
+    - Après un mot-clé :
+      ```shell
+      Router# show ?
+    Affiche toutes les options possibles après la commande `show`.
+    - En cours de saisie :
+      ```shell
+      Router(config)# interface ?
+      ```
+      Liste les interfaces configurables.
+- Utilisez la touche Tabulation pour compléter automatiquement une commande.
+- L’aide contextuelle est essentielle pour apprendre et éviter les erreurs de syntaxe.
+
+---
+
+
+
+## 3.2 Définir le nom de l’équipement (hostname) [Cisco]
 
 ```shell
 Switch> enable
@@ -93,7 +122,7 @@ SW-ETML(config)#
 
 ---
 
-## 3.2 Configurer les interfaces réseau [Cisco]
+## 3.3 Configurer les interfaces réseau [Cisco]
 
 - Accéder à l’interface :
 
@@ -122,7 +151,7 @@ SW-ETML(config)#
 
 ---
 
-## 3.3 Configurer une adresse IP sur un routeur [Cisco]
+## 3.4 Configurer une adresse IP sur un routeur [Cisco]
 
 ```shell
 Router> enable

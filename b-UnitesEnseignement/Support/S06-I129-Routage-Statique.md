@@ -38,7 +38,7 @@ footer: "ETML - Module I129 - AGR"
 ## 1.2 Pourquoi utilise-t-on du routage ?
 
 - Pour permettre la communication entre plusieurs réseaux distincts (ex : entre un réseau d’entreprise et Internet).
-- Pour segmenter un réseau en sous-réseaux (subnets) et contrôler le trafic entre eux.
+- Pour contrôler le trafic entre différents réseau et sous-réseaux (subnets)
 - Pour améliorer la sécurité, la performance et la gestion du réseau.
 
 ---
@@ -124,33 +124,6 @@ footer: "ETML - Module I129 - AGR"
 
 ---
 
-## 3.4 Obtenir de l’aide dans la CLI Cisco
-
-- La CLI Cisco intègre des fonctions d’aide très pratiques pour découvrir ou rappeler la syntaxe des commandes.
-- Tapez un point d’interrogation `?` à n’importe quel endroit pour afficher les commandes ou options disponibles.
-- Exemples :
-  - À l’invite principale :
-    ```shell
-    Router> ?
-    ```
-    Affiche toutes les commandes disponibles en mode utilisateur.
----
-
-## 3.4 Obtenir de l’aide dans la CLI Cisco (suite)
-  - Exemples :
-    - Après un mot-clé :
-      ```shell
-      Router# show ?
-    Affiche toutes les options possibles après la commande `show`.
-    - En cours de saisie :
-      ```shell
-      Router(config)# interface ?
-      ```
-      Liste les interfaces configurables.
-- Utilisez la touche Tabulation pour compléter automatiquement une commande.
-- L’aide contextuelle est essentielle pour apprendre et éviter les erreurs de syntaxe.
-
----
 
 # 4. Structure et contenu des tables de routage
 
