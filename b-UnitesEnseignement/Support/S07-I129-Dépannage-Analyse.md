@@ -87,6 +87,7 @@ Router# debug ip icmp
    3. **Réseau** : adresses IP, routage
    2. **Liaison de données** : adresses MAC, switchs, VLANs
    1. **Physique** : câbles, alimentation, voyants
+
 - Procéder par élimination, du bas vers le haut.
 - Utiliser les outils adaptés à chaque couche.
 
