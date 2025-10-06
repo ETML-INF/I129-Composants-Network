@@ -92,6 +92,12 @@ Router# debug ip icmp
 - Utiliser les outils adaptés à chaque couche.
 
 ---
+# 4. Exercice pratique : dépannage sur Packet Tracer
+Reprenez l'exercice de la semaine dernière sur le routage statique et crééz une panne pour votre collègue. 
+
+P.ex : Eteindre un routeur, changer une config, etc... 
+
+---
 
 ## Questions de réflexion
 
