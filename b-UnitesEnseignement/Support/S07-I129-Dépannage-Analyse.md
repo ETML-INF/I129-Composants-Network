@@ -80,13 +80,13 @@ Router# debug ip icmp
 # 3. Méthodologie de recherche d’erreurs (modèle OSI)
 
 - Suivre les couches du modèle OSI pour isoler la source du problème :
-   7. **Application** : services, applications réseau
-   6. **Présentation** : format des données
-   5. **Session** : connexions, authentification
-   4. **Transport** : ports TCP/UDP
-   3. **Réseau** : adresses IP, routage
-   2. **Liaison de données** : adresses MAC, switchs, VLANs
-   1. **Physique** : câbles, alimentation, voyants
+  -   7) **Application** : services, applications réseau
+  -   6) **Présentation** : format des données
+  -   5) **Session** : connexions, authentification
+  -   4) **Transport** : ports TCP/UDP
+  -   3) **Réseau** : adresses IP, routage
+  -   2) **Liaison de données** : adresses MAC, switchs, VLANs
+  -   1) **Physique** : câbles, alimentation, voyants
 
 - Procéder par élimination, du bas vers le haut.
 - Utiliser les outils adaptés à chaque couche.
