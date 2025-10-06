@@ -75,6 +75,11 @@ Router# show vlan
 Router# debug ip icmp
 ```
 
+Toujours désactiver le debug après usage : 
+```shell
+Router# undebug all
+```
+
 ---
 
 # 3. Méthodologie de recherche d’erreurs (modèle OSI)

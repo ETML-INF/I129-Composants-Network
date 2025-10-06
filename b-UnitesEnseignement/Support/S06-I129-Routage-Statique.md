@@ -37,9 +37,15 @@ footer: "ETML - Module I129 - AGR"
 
 ## 1.2 Pourquoi utilise-t-on du routage ?
 
-- Pour permettre la communication entre plusieurs réseaux distincts (ex : entre un réseau d’entreprise et Internet).
-- Pour contrôler le trafic entre différents réseau et sous-réseaux (subnets)
-- Pour améliorer la sécurité, la performance et la gestion du réseau.
+- Assurer la communication entre plusieurs réseaux distincts
+→ Par exemple, relier un réseau d’entreprise à Internet ou à d’autres sites distants.
+
+- Diriger et contrôler le trafic entre les différents réseaux et sous-réseaux (subnets)
+→ Le routeur choisit le meilleur chemin pour chaque paquet.
+
+- Optimiser la sécurité, la performance et la gestion du réseau
+→ Le routage contribue indirectement à la sécurité (par la séparation des réseaux et l’application de filtres).
+→ Il améliore la performance en optimisant les chemins et en évitant les boucles.
 
 ---
 
