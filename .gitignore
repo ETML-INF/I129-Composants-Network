@@ -2,4 +2,9 @@
 *.zip
 *.iso
 *.code-workspace
-*.rst
+
+# Claude / Superpowers
+docs/superpowers/
+.claude/
+
+b-UnitesEnseignement/Exercices/index.html
