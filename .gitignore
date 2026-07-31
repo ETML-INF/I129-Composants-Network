@@ -3,8 +3,23 @@
 *.iso
 *.code-workspace
 
-# Claude / Superpowers
-docs/superpowers/
+# Claude / IA - ne jamais versionner (aucune mention de Claude dans le repo)
 .claude/
+**/.claude/
+.claude-plugin/
+**/.claude-plugin/
+CLAUDE.md
+CLAUDE.local.md
+**/CLAUDE.md
+**/CLAUDE.local.md
+claude.md
+.mcp.json
+.claudeignore
+
+# Plugins Claude (superpowers, etc.)
+docs/superpowers/
+superpowers/
+**/superpowers/
+.superpowers/
 
 b-UnitesEnseignement/Exercices/index.html
